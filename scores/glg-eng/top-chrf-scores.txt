@@ -1,0 +1,6 @@
+flores101-devtest	0.64384	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+flores200-devtest	0.64384	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+ntrex128	0.61647	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+tatoeba-test-v2020-07-28	0.68328	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+tatoeba-test-v2021-03-30	0.68278	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+tatoeba-test-v2021-08-07	0.68376	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus

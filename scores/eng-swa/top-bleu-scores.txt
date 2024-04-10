@@ -1,0 +1,5 @@
+ntrex128	35.6	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt_opus
+tatoeba-test-v2020-07-28	28.1	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt
+tatoeba-test-v2021-03-30	27.9	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt
+tatoeba-test-v2021-08-07	27.9	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt
+tico19-test	32.0	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt_opus

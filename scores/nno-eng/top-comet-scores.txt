@@ -1,0 +1,3 @@
+flores200-devtest	0.7054	HPLT-MT-models/nn-en/translate-nn-en-v1.0-hplt_opus
+ntrex128	0.6711	HPLT-MT-models/nn-en/translate-nn-en-v1.0-hplt_opus
+tatoeba-test-v2021-08-07	0.8505	HPLT-MT-models/nn-en/translate-nn-en-v1.0-hplt_opus

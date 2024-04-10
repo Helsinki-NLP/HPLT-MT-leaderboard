@@ -1,0 +1,3 @@
+flores101-devtest	28.9	HPLT-MT-models/en-bs/translate-en-bs-v1.0-hplt_opus
+flores200-devtest	28.9	HPLT-MT-models/en-bs/translate-en-bs-v1.0-hplt_opus
+ntrex128	24.5	HPLT-MT-models/en-bs/translate-en-bs-v1.0-hplt_opus

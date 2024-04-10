@@ -1,0 +1,3 @@
+flores news ntrex128 tatoeba
+0.597484583333333	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+0.57852875	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt

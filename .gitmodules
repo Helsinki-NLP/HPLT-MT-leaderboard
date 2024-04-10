@@ -1,0 +1,6 @@
+[submodule "build"]
+	path = build
+	url = ../OPUS-MT-leaderboard-recipes
+[submodule "OPUS-MT-testsets"]
+	path = OPUS-MT-testsets
+	url = ../OPUS-MT-testsets.git

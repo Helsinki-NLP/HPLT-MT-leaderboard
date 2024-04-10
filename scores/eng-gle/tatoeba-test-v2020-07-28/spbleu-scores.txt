@@ -1,0 +1,2 @@
+48.9	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt
+46.1	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt_opus

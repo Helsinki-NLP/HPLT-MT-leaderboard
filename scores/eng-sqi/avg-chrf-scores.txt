@@ -1,0 +1,3 @@
+ntrex128 tatoeba
+0.6313	HPLT-MT-models/en-sq/translate-en-sq-v1.0-hplt_opus
+0.600325	HPLT-MT-models/en-sq/translate-en-sq-v1.0-hplt

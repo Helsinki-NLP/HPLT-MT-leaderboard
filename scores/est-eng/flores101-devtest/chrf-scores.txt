@@ -1,0 +1,2 @@
+0.60969	HPLT-MT-models/et-en/translate-et-en-v1.0-hplt_opus
+0.59408	HPLT-MT-models/et-en/translate-et-en-v1.0-hplt

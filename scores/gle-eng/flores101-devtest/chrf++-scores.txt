@@ -1,0 +1,2 @@
+0.61742	HPLT-MT-models/ga-en/translate-ga-en-v1.0-hplt_opus
+0.55668	HPLT-MT-models/ga-en/translate-ga-en-v1.0-hplt

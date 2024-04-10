@@ -1,0 +1,3 @@
+ntrex128 tatoeba tico19-test
+41.1	HPLT-MT-models/sw-en/translate-sw-en-v1.0-hplt_opus
+31.4	HPLT-MT-models/sw-en/translate-sw-en-v1.0-hplt

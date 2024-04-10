@@ -1,0 +1,2 @@
+35.0	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt_opus
+27.6	HPLT-MT-models/gl-en/translate-gl-en-v1.0-hplt

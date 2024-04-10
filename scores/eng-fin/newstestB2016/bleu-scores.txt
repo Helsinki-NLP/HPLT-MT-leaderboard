@@ -1,0 +1,2 @@
+19.6	HPLT-MT-models/en-fi/translate-en-fi-v1.0-hplt_opus
+18.7	HPLT-MT-models/en-fi/translate-en-fi-v1.0-hplt

@@ -1,0 +1,6 @@
+flores101-devtest	0.60451	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt_opus
+flores200-devtest	0.60451	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt_opus
+ntrex128	0.54316	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt_opus
+tatoeba-test-v2020-07-28	0.64391	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt
+tatoeba-test-v2021-03-30	0.64391	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt
+tatoeba-test-v2021-08-07	0.64317	HPLT-MT-models/en-ga/translate-en-ga-v1.0-hplt

@@ -1,0 +1,3 @@
+flores generaltest2022 ntrex128 tatoeba
+36.4833333333333	HPLT-MT-models/en-hr/translate-en-hr-v1.0-hplt_opus
+32.9083333333333	HPLT-MT-models/en-hr/translate-en-hr-v1.0-hplt

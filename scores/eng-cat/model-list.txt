@@ -1,0 +1,2 @@
+HPLT-MT-models/en-ca/translate-en-ca-v1.0-hplt
+HPLT-MT-models/en-ca/translate-en-ca-v1.0-hplt_opus

@@ -1,0 +1,3 @@
+flores generaltest2022 ntrex128 tatoeba
+0.614515833333333	HPLT-MT-models/en-hr/translate-en-hr-v1.0-hplt_opus
+0.591738333333333	HPLT-MT-models/en-hr/translate-en-hr-v1.0-hplt

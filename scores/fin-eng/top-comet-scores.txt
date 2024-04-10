@@ -1,0 +1,12 @@
+flores101-devtest	0.8828	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+flores200-devtest	0.8828	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstest2015	0.8613	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstest2016	0.8640	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstest2017	0.8735	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstest2018	0.8471	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstest2019	0.8591	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+newstestB2017	0.8655	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+ntrex128	0.8654	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+tatoeba-test-v2020-07-28	0.9216	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+tatoeba-test-v2021-03-30	0.9213	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus
+tatoeba-test-v2021-08-07	0.9206	HPLT-MT-models/fi-en/translate-fi-en-v1.0-hplt_opus

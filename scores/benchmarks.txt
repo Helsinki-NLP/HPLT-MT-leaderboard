@@ -1,0 +1,22 @@
+flores101-devtest	ara-eng bos-eng cat-eng eng-ara eng-bos eng-cat eng-est eng-fin eng-gle eng-glg eng-hin eng-hrv eng-isl eng-mlt est-eng fin-eng gle-eng glg-eng hin-eng hrv-eng isl-eng mlt-eng 
+flores200-devtest	ara-eng bos-eng cat-eng eng-ara eng-bos eng-cat eng-est eng-eus eng-fin eng-gle eng-glg eng-hin eng-hrv eng-isl eng-mlt eng-nno est-eng eus-eng fin-eng gle-eng glg-eng hin-eng hrv-eng isl-eng mlt-eng nno-eng 
+generaltest2022	eng-hrv eng-zho zho-eng 
+newstest2014	eng-hin hin-eng 
+newstest2015	eng-fin fin-eng 
+newstest2016	eng-fin fin-eng 
+newstest2017	eng-fin eng-zho fin-eng zho-eng 
+newstest2018	eng-est eng-fin eng-zho est-eng fin-eng zho-eng 
+newstest2019	eng-fin eng-zho fin-eng zho-eng 
+newstest2020	eng-zho zho-eng 
+newstest2021	eng-isl eng-zho isl-eng zho-eng 
+newstestALL2016	eng-fin 
+newstestALL2017	eng-fin 
+newstestALL2020	eng-zho zho-eng 
+newstestB2016	eng-fin 
+newstestB2017	eng-fin fin-eng 
+newstestB2020	eng-zho zho-eng 
+ntrex128	bos-eng cat-eng eng-bos eng-cat eng-est eng-eus eng-fin eng-gle eng-glg eng-hin eng-hrv eng-isl eng-mlt eng-nno eng-sqi eng-swa est-eng eus-eng fin-eng gle-eng glg-eng hin-eng hrv-eng isl-eng mlt-eng nno-eng sqi-eng swa-eng 
+tatoeba-test-v2020-07-28	ara-eng eng-ara eng-fin eng-gle eng-glg eng-hrv eng-isl eng-sqi eng-swa eng-zho fin-eng gle-eng glg-eng hrv-eng isl-eng sqi-eng swa-eng zho-eng 
+tatoeba-test-v2021-03-30	ara-eng eng-ara eng-fin eng-gle eng-glg eng-hrv eng-isl eng-mlt eng-sqi eng-swa eng-zho fin-eng gle-eng glg-eng hrv-eng isl-eng mlt-eng sqi-eng swa-eng zho-eng 
+tatoeba-test-v2021-08-07	ara-eng cat-eng eng-ara eng-cat eng-est eng-eus eng-fin eng-gle eng-glg eng-hin eng-hrv eng-isl eng-mlt eng-nno eng-sqi eng-swa eng-zho est-eng eus-eng fin-eng gle-eng glg-eng hin-eng hrv-eng isl-eng mlt-eng nno-eng sqi-eng swa-eng zho-eng 
+tico19-test	ara-eng eng-ara eng-hin eng-swa eng-zho hin-eng swa-eng zho-eng 

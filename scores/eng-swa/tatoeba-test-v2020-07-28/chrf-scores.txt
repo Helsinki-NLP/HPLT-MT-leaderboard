@@ -1,0 +1,2 @@
+0.60897	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt
+0.53149	HPLT-MT-models/en-sw/translate-en-sw-v1.0-hplt_opus

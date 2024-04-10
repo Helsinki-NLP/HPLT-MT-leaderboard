@@ -1,0 +1,12 @@
+generaltest2022	0.18121	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+newstest2017	0.11307	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+newstest2018	0.10896	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt_opus
+newstest2019	0.15725	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+newstest2020	0.11568	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt_opus
+newstest2021	0.15905	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+newstestALL2020	0.14068	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt_opus
+newstestB2020	0.11257	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+tatoeba-test-v2020-07-28	0.16187	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+tatoeba-test-v2021-03-30	0.16099	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+tatoeba-test-v2021-08-07	0.16023	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt
+tico19-test	0.22064	HPLT-MT-models/en-zh_hant/translate-en-zh_hant-v1.0-hplt_opus

@@ -1,0 +1,3 @@
+flores tatoeba tico19-test
+0.636964444444444	HPLT-MT-models/ar-en/translate-ar-en-v1.0-hplt_opus
+0.589075555555556	HPLT-MT-models/ar-en/translate-ar-en-v1.0-hplt

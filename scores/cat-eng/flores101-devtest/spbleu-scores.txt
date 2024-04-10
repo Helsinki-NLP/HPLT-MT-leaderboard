@@ -1,0 +1,2 @@
+48.3	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt_opus
+44.7	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt

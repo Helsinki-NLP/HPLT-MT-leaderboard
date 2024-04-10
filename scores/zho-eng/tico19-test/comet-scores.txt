@@ -1,0 +1,2 @@
+0.8290	HPLT-MT-models/zh_hant-en/translate-zh_hant-en-v1.0-hplt_opus
+0.8006	HPLT-MT-models/zh_hant-en/translate-zh_hant-en-v1.0-hplt

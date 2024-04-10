@@ -1,0 +1,3 @@
+flores ntrex128 tatoeba
+0.64185	HPLT-MT-models/en-ca/translate-en-ca-v1.0-hplt_opus
+0.61194	HPLT-MT-models/en-ca/translate-en-ca-v1.0-hplt

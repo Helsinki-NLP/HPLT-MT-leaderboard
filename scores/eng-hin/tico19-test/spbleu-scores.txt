@@ -1,0 +1,2 @@
+48.3	HPLT-MT-models/en-hi/translate-en-hi-v1.0-hplt_opus
+47.3	HPLT-MT-models/en-hi/translate-en-hi-v1.0-hplt

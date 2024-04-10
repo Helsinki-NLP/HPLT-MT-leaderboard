@@ -1,0 +1,4 @@
+flores101-devtest	0.68713	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt_opus
+flores200-devtest	0.68713	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt_opus
+ntrex128	0.62614	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt_opus
+tatoeba-test-v2021-08-07	0.72575	HPLT-MT-models/ca-en/translate-ca-en-v1.0-hplt_opus

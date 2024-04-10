@@ -1,0 +1,3 @@
+flores ntrex128
+0.561555	HPLT-MT-models/en-bs/translate-en-bs-v1.0-hplt_opus
+0.28491	HPLT-MT-models/en-bs/translate-en-bs-v1.0-hplt

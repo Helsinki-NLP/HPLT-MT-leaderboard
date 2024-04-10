@@ -1,0 +1,6 @@
+flores101-devtest	0.64327	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
+flores200-devtest	0.64327	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
+newstest2014	0.60622	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
+ntrex128	0.60362	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
+tatoeba-test-v2021-08-07	0.6901	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
+tico19-test	0.72043	HPLT-MT-models/hi-en/translate-hi-en-v1.0-hplt_opus
